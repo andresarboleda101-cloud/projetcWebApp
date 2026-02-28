@@ -37,7 +37,8 @@ Abrir el archivo index.html en cualquier navegador.
 
 Asegurarse de que la carpeta Font esté correctamente enlazada para que funcione la tipografía personalizada.
 
-│
+│Estructura del proyecto.
+
 ├── index.html
 ├── estilos.css
 ├── /Font
