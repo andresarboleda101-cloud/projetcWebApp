@@ -7,6 +7,20 @@ El sitio presenta información básica sobre su biografía, carrera musical, gal
 
 El diseño está inspirado en el estilo característico de la artista: fondo oscuro con detalles en verde neón, tipografía personalizada y efectos visuales modernos.
 
+
+🎯 Objetivos del Proyecto
+
+Aplicar conocimientos de HTML y CSS.
+
+Utilizar tipografías personalizadas mediante @font-face.
+
+Implementar estilos modernos con efectos hover.
+
+Diseñar una interfaz visual coherente con la temática del artista.
+
+Organizar contenido en secciones claras y navegables.
+
+
 🛠️ Tecnologías Utilizadas
 
 HTML5 → Estructura del sitio web.
@@ -16,6 +30,7 @@ CSS3 → Diseño y estilos visuales.
 Google Fonts (Poppins) → Fuente para textos descriptivos.
 
 Fuente personalizada BillieEilish.ttf → Para títulos y menú de navegación.
+
 
 🎨 Características del Diseño
 
@@ -28,6 +43,20 @@ Fuente personalizada BillieEilish.ttf → Para títulos y menú de navegación.
 🔤 Tipografía personalizada para títulos.
 
 📱 Diseño limpio y organizado por secciones.
+
+
+📖 Secciones del Sitio
+
+Inicio → Presentación principal.
+
+Biografía → Información básica de la artista.
+
+Carrera → Logros y trayectoria musical.
+
+Galería → Imágenes representativas.
+
+Contacto → Formulario de interacción.
+
 
 🚀 Cómo Ejecutar el Proyecto
 
