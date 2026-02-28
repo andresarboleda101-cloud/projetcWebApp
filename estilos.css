@@ -18,7 +18,7 @@ header {
     background-color: #111;
     text-align: center;
     padding: 40px;
-    border-bottom: 3px solid #39ff14;
+    border-bottom: 3px solid #ff1414;
 }
 
 header p {
@@ -31,7 +31,7 @@ header p {
 h1 {
     font-family: 'BillieEilishFont', sans-serif;
     font-size: 80px;
-    color: #39ff14;
+    color: #ff1414;
 
     p {
         font-size: 20px;
@@ -42,8 +42,8 @@ h1 {
 h2 {
     font-family: 'BillieEilishFont', sans-serif;
     font-size: 50px;
-    color: #39ff14;
-    border-bottom: 2px solid #39ff14;
+    color: #ff1414;
+    border-bottom: 2px solid #ff1414;
     padding-bottom: 8px;
 }
 
@@ -65,7 +65,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none;
-    color: #39ff14;
+    color: #ff1414;
     font-family: 'BillieEilishFont', sans-serif;
     font-size: 26px; 
     transition: 0.3s;
@@ -73,7 +73,7 @@ nav ul li a {
 
 nav ul li a:hover {
     color: white;
-    text-shadow: 0 0 10px #39ff14;
+    text-shadow: 0 0 10px #ff1414;
 }
 
 section {
@@ -92,18 +92,18 @@ section p {
 
 img {
     width: 500px;
-    border: 3px solid #39ff14;
+    border: 3px solid #ff1414;
     margin-top: 15px;
     transition: 0.3s;
 }
 
 img:hover {
     transform: scale(1.05);
-    box-shadow: 0 0 20px #39ff14;
+    box-shadow: 0 0 20px #ff1414;
 }
 
 ul li:first-child {
-    color: #39ff14;
+    color: #ff1414;
     font-weight: bold;
 }
 
@@ -121,7 +121,7 @@ input, textarea {
     width: 60%;
     padding: 10px;
     margin-top: 5px;
-    border: 2px solid #39ff14;
+    border: 2px solid #ff1414;
     background-color: #0a0a0a;
     color: white;
     border-radius: 5px;
@@ -130,7 +130,7 @@ input, textarea {
 }
 
 button {
-    background-color: #39ff14;
+    background-color: #ff1414;
     color: black;
     border: none;
     padding: 10px 20px;
@@ -143,15 +143,15 @@ button {
 
 button:hover {
     background-color: black;
-    color: #39ff14;
-    border: 2px solid #39ff14;
+    color: #ff1414;
+    border: 2px solid #ff1414;
 }
 
 footer {
     background-color: #111;
     text-align: center;
     padding: 20px;
-    border-top: 3px solid #39ff14;
+    border-top: 3px solid #ff1414;
     font-family: 'BillieEilishFont', sans-serif;
 }
 
